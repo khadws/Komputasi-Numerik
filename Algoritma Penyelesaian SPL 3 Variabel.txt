@@ -4,7 +4,7 @@ a11·x + a12·y + a13·z = b1
 a21·x + a22·y + a23·z = b2
 a31·x + a32·y + a33·z = b3
 
-Deskriptif :
+**LANGKAH-LANGKAH** :
 
 1. Mulai
 2. Masukkan koefisian a11 sampai a33 dan konstanta b1 sampai b3, lalu susun menjadi matriks 3x4.

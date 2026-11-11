@@ -13,10 +13,15 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 
 | No | Materi | Status | Folder |
 |----|--------|--------|--------|
-| 1 | Sistem Persamaan Linier (Metode Gauss) | Dalam Pengerjaan | [SPL-Gauss](SPL-3-Variabel/) |
-| 2 | Persamaan Non-Linier (Metode Bisection) | Belum dimulai | - |
+| 1 | Sistem Persamaan Linier (Metode Gauss) | Dalam Pengerjaan | [SPL-Gauss](SPL_3_Variabel(1)/) |
 
 ## Isi Repository
 
 - `SPL-3-Variabel/` : algoritma dan kode pyton penyelesaian SPL dengan eliminasi Gauss
-- `Akun-GoogleCollab-L
+- `Link-Akun` : tautan akun GitHub, Google Collab, dan LinkedIn
+
+## Tautan
+
+- GitHub : https://github.com/khadws
+- LinkedIn : https://www.linkedin.com/in/khaidirud-dawwas-647329417/
+- Google Collab : 

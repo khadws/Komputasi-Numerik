@@ -1,0 +1,2 @@
+Promt algoritma : buatkan algoritma dari penyelesaian SPL 3 Variabel metode gauss
+Promt code pyton : bantu aku mengerjakannya, buatkan langkah langkah penyelesaian command dan code SPL nya yang bisa di import ke google collab. tambahkan penjelasan tambahan untuk setiap sel atau permasalahan. 

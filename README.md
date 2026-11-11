@@ -24,4 +24,4 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 
 - GitHub : https://github.com/khadws
 - LinkedIn : https://www.linkedin.com/in/khaidirud-dawwas-647329417/
-- Google Collab : 
+- Google Collab : https://colab.research.google.com/drive/1RD0k-4oXfUrQR1CeKPRGXdCHBOcr7bbA?usp=sharing

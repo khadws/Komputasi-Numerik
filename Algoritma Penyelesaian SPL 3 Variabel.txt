@@ -1,6 +1,6 @@
 Algoritma Penyelesaian SPL 3 Variabel metode Gauss
 
-a11·x + a12·y + a13·z = b1
+2x + y + a13·z = b1
 a21·x + a22·y + a23·z = b2
 a31·x + a32·y + a33·z = b3
 

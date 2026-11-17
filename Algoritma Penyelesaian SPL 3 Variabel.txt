@@ -7,7 +7,7 @@ a31·x + a32·y + a33·z = b3
 LANGKAH-LANGKAH :
 
 1. Mulai
-2. Masukkan koefisian a11 sampai a33 dan konstanta b1 sampai b3, lalu susun menjadi matriks 3x4.
+2. Masukkan koefisian a11 sampai a33 dan konstanta b1 sampai b3, lalu susun menjadi matriks 3x3.
 3. Eliminasi maju untuk setiap kelompok k = 1 sampai 3.
    a. periksa elemen pivot a[k][k], jika sama dengan 0, hentikan proses
    b. untuk setiap baris i = k+1 sampai 3 hitung pengali m = a[i][k] / a[k][k].
